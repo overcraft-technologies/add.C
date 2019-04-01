@@ -1,0 +1,13 @@
+addC	KEYWORD1	
+deviceId	KEYWORD2	
+currentAdvertise	KEYWORD2	
+currentDetect	KEYWORD2	
+accessoryConnected	KEYWORD2	
+activeCable	KEYWORD2	
+attachedState	KEYWORD2	
+cableDirection	KEYWORD2	
+interruptStatus	KEYWORD2	
+interruptClear	KEYWORD2	
+drpDutyCycle	KEYWORD2	
+debounce	KEYWORD2	
+modeSetK	EYWORD2	
